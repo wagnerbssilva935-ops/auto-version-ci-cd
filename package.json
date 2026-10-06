@@ -1,0 +1,25 @@
+{
+  "name": "auto-version-ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo Build OK"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagnerbssilva935-ops/auto-version-ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wagnerbssilva935-ops/auto-version-ci-cd/issues"
+  },
+  "homepage": "https://github.com/wagnerbssilva935-ops/auto-version-ci-cd#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
